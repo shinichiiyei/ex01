@@ -2,3 +2,4 @@
 Example of ELITES "kadai".
 hogehoge
 hogehoge2
+hogehoge3
